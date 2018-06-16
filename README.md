@@ -6,7 +6,34 @@ Forge Version : forge-1.12.2-14.23.4.2705-universal
 
 Added :
 
-	Date : 16-05-2018
+	Date : 16-05-2018 16pm
+	
+	ironchest-1.12.2-7.0.42.827
+	ResourceLoader-MC1.12.1-1.5.3
+	modtweaker-4.0.12
+	IronBackpacks-1.12.2-3.0.8-12
+	MTLib-3.0.5
+	JustEnoughResources-1.12.2-0.8.7.41
+	KleeSlabs_1.12.2-5.4.10
+	WanionLib-1.12.2-1.5
+	UniDict-1.12.2-2.5c
+	base-1.12.2-3.9.0
+	Clumps-3.0.0
+	MCMultiPart-2.5.1
+	BetterAdvancements-1.12.2-0.0.8.50
+	modnametooltip_1.12.2-1.10.0
+	StorageDrawersExtras-1.12-3.1.0
+	Neat 1.4-16
+	NotEnoughIDs-1.5.4.2
+	LLOverlayReloaded-1.1.6-mc1.12.2
+	HQM-Beyond-1.12.x-5.2.0Alpha1
+	TickProfiler-1.12-0.0.4
+	ForgivingVoid_1.12.2-1.0.17
+	mcjtylib-1.12-3.0.1
+	efab-0.0.37
+	
+
+	Date : 16-05-2018 10am
 	
 	ExCompressum_1.12.2-3.0.22
 	exnihilocreatio-1.12-0.2.2
