@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Blue Sky",
-  "version": "1.0.0.1",
+  "version": "1.00.1a",
   "author": "bennyb1971",
   "files": [
     {
@@ -312,11 +312,6 @@
     {
       "projectID": 275343,
       "fileID": 2557670,
-      "required": true
-    },
-    {
-      "projectID": 231951,
-      "fileID": 2559547,
       "required": true
     },
     {
