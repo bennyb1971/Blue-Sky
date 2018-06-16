@@ -13,6 +13,22 @@
   "name": "Blue Sky",
   "version": "1.0",
   "author": "bennyb1971",
-  "files": [],
+  "files": [
+    {
+      "projectID": 257655,
+      "fileID": 2568070,
+      "required": true
+    },
+    {
+      "projectID": 274456,
+      "fileID": 2557430,
+      "required": true
+    },
+    {
+      "projectID": 241967,
+      "fileID": 2570582,
+      "required": true
+    }
+  ],
   "overrides": "overrides"
 }
