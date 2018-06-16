@@ -6,6 +6,18 @@ Forge Version : forge-1.12.2-14.23.4.2705-universal
 
 Added :
 
+	Date : 16-05-2018 20pm
+	
+	GameStages-1.12.2-2.0.91
+	ItemStages-1.12.2-2.0.35
+	MobStages-1.12.2-2.0.8
+	RecipeStages-1.1.1
+	DimensionStages-1.12.2-2.0.20
+	TinkerStages-1.12.2-2.0.15
+	multiblockstages-1.1.1
+	JourneyMapStages-1.12.2-2.0.5
+	
+	
 	Date : 16-05-2018 16pm
 	
 	ironchest-1.12.2-7.0.42.827

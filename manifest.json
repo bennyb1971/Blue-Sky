@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Blue Sky",
-  "version": "1.0",
+  "version": "1.0.0.1",
   "author": "bennyb1971",
   "files": [
     {
@@ -277,6 +277,56 @@
     {
       "projectID": 293954,
       "fileID": 2569384,
+      "required": true
+    },
+    {
+      "projectID": 228525,
+      "fileID": 2572825,
+      "required": true
+    },
+    {
+      "projectID": 268655,
+      "fileID": 2563842,
+      "required": true
+    },
+    {
+      "projectID": 280316,
+      "fileID": 2557650,
+      "required": true
+    },
+    {
+      "projectID": 278359,
+      "fileID": 2557662,
+      "required": true
+    },
+    {
+      "projectID": 280554,
+      "fileID": 2561297,
+      "required": true
+    },
+    {
+      "projectID": 269398,
+      "fileID": 2557658,
+      "required": true
+    },
+    {
+      "projectID": 275343,
+      "fileID": 2557670,
+      "required": true
+    },
+    {
+      "projectID": 231951,
+      "fileID": 2559547,
+      "required": true
+    },
+    {
+      "projectID": 284139,
+      "fileID": 2567608,
+      "required": true
+    },
+    {
+      "projectID": 289753,
+      "fileID": 2557654,
       "required": true
     }
   ],
