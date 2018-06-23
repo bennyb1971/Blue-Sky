@@ -6,91 +6,32 @@ Forge Version : forge-1.12.2-14.23.4.2705-universal
 
 Added :
 
-	Morpheus-1.12-3.3.2
-	ActuallyAdditions-1.12.2-r135
-	natura-1.12.2-4.3.2.49
-	TinkerToolLeveling-1.12.2-1.0.5
-	Draconic-Evolution-1.12-2.3.11.290-universal
-	BloodMagic-1.12.2-2.2.12-97
-	RedstoneArsenal-1.12.2-2.5.1.13-universal
-	MobGrindingUtils-0.3.6
-	generators-0.9.20.12-mc1.12.2
-	gendustry-1.6.5.8-mc1.12.2
-	foamfix-0.9.9.1-1.12.2-anarchy
-	ae2stuff-0.7.0.4-mc1.12.2
-	SimplyJetpacks2-1.12.2-2.2.7.45
-	OpenBlocks-1.12.2-1.7.6
-	torchmaster_1.12.2-1.6.4.62
-	NetherPortalFix_1.12.1-5.3.13
-	FastWorkbench-1.12.2-1.5.0
-	Reliquary-1.12.2-1.3.4.767
-	Psi-r1.1-59
-	RebornStorage-1.12.2-3.1.0.50
-	MagicBees-1.12.2-3.1.10
-	gravestone-1.10.1
-	binnie-mods-1.12.2-2.5.0.167
-	refinedstorageaddons-0.3
-	FarmingForBlockheads_1.12.2-3.1.17
-	ActuallyBaubles-1.12-1.1
-	blockcraftery-0.1.3
-	malisisdoors-1.12.2-7.3.0
-	Snad-1.12.1-1.7.09.16a
-	AkashicTome-1.2-10
-	roots-2-0.104
-	Traverse-1.12.2-1.5.4-61
-	Thaumcraft-1.12.2-6.1.BETA16
-	etlunar-1.12.2-2.0.11a
-	embers-0.230
-	JEHC-1.12.2-1.5.1.0
-	simplegenerators-1.12.2-2.0.11a
-	SoulShards-TOW-1.12-2.7.6-56
-	agricraft-2.12.0-1.12.0-a4
-	TinkersComplement-1.12.2-0.2.3b
-	pneumaticcraft-repressurized-1.12.2-0.6.7-210
-	bonsaitrees-1.0.5-b77
-	YNot-0.2.3
-	YABBA-1.1.2.10
-	tinyprogressions-1.12.2-3.3.29-Release
-	bedpatch-2.2-1.12.2
-	WaterStrainer-1.12-3.2.0
-	careerbees-0.4.0
-	ComputerCraft1.80pr1
-	tinker_io-1.12.2-release 2.6.1
-	TechReborn-1.12.2-2.15.15.712-universal
-	buildcraft-7.99.17
-	actuallycomputers-2.1.0
-	buildcraft-compat-7.99.14
-	JAOPCA-1.12.2-2.2.8.90
-	IndustrialWires-1.6-25
-	EngineersWorkshop-1.4.0-1.12.2
-	JAOPCAAdditions-1.12.2-2.2.1.9
-	ThaumicJEI-1.12.2-1.4.0-14
-	animania-1.12.2-1.4.8
-	solcarrot-1.12.2-1.3.3
-	
+	SoulShardsRespawn-1.12.2-1.0.5-7
+		to replace : SoulShards-TOW-1.12-2.7.6-56
+	practicallogistics2-1.12.2-3.0.4
+	RandomThings-MC1.12.2-4.1.8
+	BetterQuesting-3.5.259
+		to replace HQM-Beyond-1.12.x-5.2.0Alpha1
+	questbook-3.1.1-1.12
+	StandardExpansion-3.4.143
+		
 Updated:
 
-	Clumps-3.1.0
-	efab-0.1.0
-	exnihilocreatio-1.12-0.2.4
-	ExtraCells-1.12.2-2.5.13a60
-	forestry_1.12.2-5.8.0.305
-	FTBGuides-1.0.2.11
-	FTBLib-5.2.0.23
-	FTBUtilities-5.2.0.28
-	incontrol-1.12-3.8.1
-	industrialcraft-2-2.8.89-ex112
-	IntegratedDynamics-1.12.2-0.11.13
-	mcjtylib-1.12-3.0.2
-	rftools-1.12-7.54
-	rftoolsctrl-1.12-1.9.1
-	WirelessCraftingTerminal-1.12.2-3.9.67
+	ActuallyAdditions-1.12.2-r136-hotfix1
+	DarkUtils-1.12.2-1.8.211
 
 Config Changes:
+
+	turned off buildcraft oilwell gen
+	Removed golden apples from sieve drops
+	Removed granite, diorite and andesite pebbles from the sieve drops
+	lowered the drop chance for wheat, melon and pumpkin seeds
+	lowered the droprates for tungsten, iridium and mithril
 
 Mod List :
 
     
+
     Void Island Control (by Bartz24)
     Ex Nihilo: Creatio (by BloodWorkXGaming)
     Ex Compressum (by BlayTheNinth)
@@ -139,7 +80,6 @@ Mod List :
     Neat (by Vazkii)
     NotEnoughIDs (by fewizz)
     Light Level Overlay Reloaded (by oldjunyi)
-    Hardcore Questing Mode (by lorddusk)
     TickProfiler (by minimallycorrect)
     Forgiving Void (by BlayTheNinth)
     McJtyLib (by McJty)
@@ -259,7 +199,6 @@ Mod List :
     Embers (by epicsquid319)
     Just Enough HarvestCraft (JEHC) (by mrAppleXZ)
     Simple Generators (by ValkyrieofNight)
-    Soul Shards: The Old Ways (by SgtPunishment)
     InfinityLib (by InfinityRaider)
     AgriCraft (by InfinityRaider)
     Tinkers' Complement (by KnightMiner)
@@ -288,3 +227,11 @@ Mod List :
     Animania (by Purplicious_Cow)
     AppleCore (by squeek502)
     Spice of Life: Carrot Edition (by LordCazsius)
+    Soul Shards Respawn (by TehNut)
+    Practical Logistics 2 (by Ollie_Lansdell)
+    Random Things (by lumien231)
+    Better Questing (by Funwayguy)
+    Better Questing - Standard Expansion (by Funwayguy)
+    Better Questing - Quest Book (by Drethic)
+    LootTableTweaker (by Darkhax)
+

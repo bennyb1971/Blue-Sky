@@ -1,0 +1,11 @@
+import mods.jei.JEI.removeAndHide as rh;
+#modloaded exnihilocreatio
+print("--- loading exnihilo.zs ---");
+
+//remove sieve drops
+
+mods.exnihilocreatio.Sieve.removeRecipe<exnihilocreatio:item_pebble:1>;
+mods.exnihilocreatio.Sieve.removeRecipe<exnihilocreatio:item_pebble:2>;
+mods.exnihilocreatio.Sieve.removeRecipe<exnihilocreatio:item_pebble:3>;
+
+
