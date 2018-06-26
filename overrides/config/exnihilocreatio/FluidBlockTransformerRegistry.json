@@ -14,6 +14,11 @@
     "input": "ore:dustGlowstone",
     "output": "minecraft:end_stone:0"
   },
+    {
+    "fluidName": "lava",
+    "input": "astralsorcery:itemcraftingcomponentgemAquamarine",
+    "output": "astralsorcery:blockcustomore"
+  },
   {
     "fluidName": "witchwater",
     "input": "ore:sand",

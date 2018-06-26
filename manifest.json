@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Blue Sky",
-  "version": "1.0.1.1",
+  "version": "1.1",
   "author": "bennyb1971",
   "files": [
     {
@@ -206,7 +206,7 @@
     },
     {
       "projectID": 244258,
-      "fileID": 2563162,
+      "fileID": 2575912,
       "required": true
     },
     {
@@ -267,11 +267,6 @@
     {
       "projectID": 233105,
       "fileID": 2574696,
-      "required": true
-    },
-    {
-      "projectID": 293954,
-      "fileID": 2574702,
       "required": true
     },
     {
@@ -441,7 +436,7 @@
     },
     {
       "projectID": 242818,
-      "fileID": 2571070,
+      "fileID": 2575906,
       "required": true
     },
     {
@@ -491,7 +486,7 @@
     },
     {
       "projectID": 59751,
-      "fileID": 2575264,
+      "fileID": 2575851,
       "required": true
     },
     {
@@ -636,7 +631,7 @@
     },
     {
       "projectID": 228404,
-      "fileID": 2575536,
+      "fileID": 2575925,
       "required": true
     },
     {
@@ -651,12 +646,12 @@
     },
     {
       "projectID": 231382,
-      "fileID": 2555896,
+      "fileID": 2575804,
       "required": true
     },
     {
       "projectID": 223565,
-      "fileID": 2555898,
+      "fileID": 2575808,
       "required": true
     },
     {
@@ -812,11 +807,6 @@
     {
       "projectID": 250577,
       "fileID": 2476494,
-      "required": true
-    },
-    {
-      "projectID": 246183,
-      "fileID": 2510836,
       "required": true
     },
     {
@@ -1022,6 +1012,26 @@
     {
       "projectID": 261339,
       "fileID": 2541554,
+      "required": true
+    },
+    {
+      "projectID": 246183,
+      "fileID": 2510836,
+      "required": true
+    },
+    {
+      "projectID": 293954,
+      "fileID": 2574702,
+      "required": true
+    },
+    {
+      "projectID": 238123,
+      "fileID": 2529891,
+      "required": true
+    },
+    {
+      "projectID": 292785,
+      "fileID": 2574249,
       "required": true
     }
   ],

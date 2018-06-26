@@ -6,31 +6,34 @@ Forge Version : forge-1.12.2-14.23.4.2705-universal
 
 Added :
 
-	SoulShardsRespawn-1.12.2-1.0.5-7
-		to replace : SoulShards-TOW-1.12-2.7.6-56
-	practicallogistics2-1.12.2-3.0.4
-	RandomThings-MC1.12.2-4.1.8
-	BetterQuesting-3.5.259
-		to replace HQM-Beyond-1.12.x-5.2.0Alpha1
-	questbook-3.1.1-1.12
-	StandardExpansion-3.4.143
+	NoMoreRecipeConflict-0.10(1.12.2) to temp fix the recipe conflicts
+	VanillaFix-1.0.9-97 to hope performance gets better
 		
 Updated:
 
-	ActuallyAdditions-1.12.2-r136-hotfix1
-	DarkUtils-1.12.2-1.8.211
+	ActuallyAdditions-1.12.2-r136-hotfix4
+	BrandonsCore-1.12.2-2.4.3.168-universal
+	CodeChickenLib-1.12.2-3.2.0.345-universal
+	Draconic-Evolution-1.12.2-2.3.12.297-universal
+	forestry_1.12.2-5.8.0.306
+	UniDict-1.12.2-2.5d
 
 Config Changes:
 
-	turned off buildcraft oilwell gen
-	Removed golden apples from sieve drops
-	Removed granite, diorite and andesite pebbles from the sieve drops
-	lowered the drop chance for wheat, melon and pumpkin seeds
-	lowered the droprates for tungsten, iridium and mithril
+	Fix for issue #3:
+		Added a way to get Rock Crystal ore 
+		Added a way to get Ember shards 
+		Added a way to get starter bees 
+	Fix for issue #4:
+		Disabled oil generation in all dimensions
+		Disabled thornvines in config
+	Started on adding quests (no rewards added yet)
+		
+Removed:
+
+	Roots
 
 Mod List :
-
-    
 
     Void Island Control (by Bartz24)
     Ex Nihilo: Creatio (by BloodWorkXGaming)
@@ -83,7 +86,6 @@ Mod List :
     TickProfiler (by minimallycorrect)
     Forgiving Void (by BlayTheNinth)
     McJtyLib (by McJty)
-    EFab (by McJty)
     Bookshelf (by Darkhax)
     Game Stages (by Darkhax)
     Item Stages (by Darkhax)
@@ -192,7 +194,6 @@ Mod List :
     MalisisDoors (by Ordinastie)
     Snad (by TheRoBrit)
     Akashic Tome (by Vazkii)
-    Roots (by epicsquid319)
     Traverse (by ProfessorProspector)
     Thaumcraft (by azanor)
     ET Lunar [Environmental Tech Addon] (by ValkyrieofNight)
@@ -234,4 +235,8 @@ Mod List :
     Better Questing - Standard Expansion (by Funwayguy)
     Better Questing - Quest Book (by Drethic)
     LootTableTweaker (by Darkhax)
+    Roots (by epicsquid319)
+    EFab (by McJty)
+    stimmedcow : NoMoreRecipeConflict (by Oliv1er)
+    VanillaFix (by Runemoro)
 
