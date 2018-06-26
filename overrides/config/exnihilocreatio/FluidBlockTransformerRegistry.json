@@ -16,7 +16,7 @@
   },
     {
     "fluidName": "lava",
-    "input": "astralsorcery:itemcraftingcomponentgemAquamarine",
+    "input": "astralsorcery:itemcraftingcomponent",
     "output": "astralsorcery:blockcustomore"
   },
   {

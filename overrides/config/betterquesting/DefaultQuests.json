@@ -404,7 +404,7 @@
           "groupDetect:1": 0,
           "ignoreNBT:1": 0,
           "index:3": 0,
-          "consume:1": 1,
+          "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
               "id:8": "minecraft:sand",
@@ -5854,6 +5854,314 @@
         }
       },
       "rewards:9": {}
+    },
+    "81:10": {
+      "questID:3": 81,
+      "preRequisites:11": [
+        37
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "immersiveengineering:metal_device1",
+            "Count:3": 1,
+            "Damage:2": 7,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Oil",
+          "desc:8": "Oil can be used to generate power and to also make plastic in pneumaticraft, so don\u0027t use all of it.\nTo get oil you will first need to find a chunk with oil in it with the core sample drill, then setup a pump jack in that chunk (use the projector and manual). Then pump the oil into a distillation tower (multiblock) and it will seperate it into diffrent liquids. Use them to your advantage."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "immersiveengineering:metal_device1",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 7
+            },
+            "1:10": {
+              "id:8": "immersivepetroleum:material",
+              "Count:3": 32,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "autoConsume:1": 0,
+          "requiredFluids:9": {
+            "0:10": {
+              "FluidName:8": "diesel",
+              "Amount:3": 1000
+            },
+            "1:10": {
+              "FluidName:8": "gasoline",
+              "Amount:3": 1000
+            },
+            "2:10": {
+              "FluidName:8": "lubricant",
+              "Amount:3": 1000
+            }
+          },
+          "index:3": 1,
+          "consume:1": 0,
+          "taskID:8": "bq_standard:fluid"
+        }
+      },
+      "rewards:9": {}
+    },
+    "82:10": {
+      "questID:3": 82,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "ic2:ingot",
+            "Count:3": 1,
+            "Damage:2": 8,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Refined Uranium",
+          "desc:8": "Refined uranium is the fuel for Extreme Reactors, to get it just smelt down some yellorium chunks. You will need alot of it so make extras."
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "ic2:ingot",
+              "Count:3": 64,
+              "OreDict:8": "",
+              "Damage:3": 8
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "83:10": {
+      "questID:3": 83,
+      "preRequisites:11": [
+        82
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "bigreactors:reactorcontroller",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Reactors",
+          "desc:8": "Reactors are multiblocks that provide power. You will need to place coolant blocks or fluids around you fuel rods to havve best effeciency, there is a list of them on the big reactor wiki.\nOnly attach your coolant port when your going to make a turbine.\n"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bigreactors:reactorcontroller",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "bigreactors:reactorcasing",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "bigreactors:reactorglass",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "bigreactors:reactorcontrolrod",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "bigreactors:reactorfuelrod",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "5:10": {
+              "id:8": "bigreactors:reactorpowertaprf",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "6:10": {
+              "id:8": "bigreactors:reactorcoolantport",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "7:10": {
+              "id:8": "bigreactors:reactoraccessport",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
+    },
+    "84:10": {
+      "questID:3": 84,
+      "preRequisites:11": [
+        83
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "bigreactors:turbinecontroller",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "partysinglereward:1": 0,
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "ismain:1": 0,
+          "name:8": "Turbines",
+          "desc:8": "Turbines are multiblocks that need a reactor to start with. Build your turbine then remove a block from your reactor and place the coolant port there, pump water into your reactor, then it will craete steam: the steam then needs pumped into the turbine for it to work. "
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "bigreactors:turbinecontroller",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "bigreactors:turbinehousing",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "2:10": {
+              "id:8": "bigreactors:turbineglass",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "3:10": {
+              "id:8": "bigreactors:turbinefluidport",
+              "Count:3": 2,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "4:10": {
+              "id:8": "bigreactors:turbinebearing",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "5:10": {
+              "id:8": "bigreactors:turbinerotorshaft",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "6:10": {
+              "id:8": "bigreactors:turbinerotorblade",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            },
+            "7:10": {
+              "id:8": "bigreactors:turbinepowertaprf",
+              "Count:3": 1,
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {}
     }
   },
   "questLines:9": {
@@ -5998,7 +6306,7 @@
           "name:8": "Getting Started",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "\nTo start this pack you will need to go through Ex Nihilo Creatio and Compressum."
+          "desc:8": "\nTo start this pack you will need to go through Ex Nihilo Creatio and Compressum.\nAuthored by Gazzaa \u0026 BennyB"
         }
       },
       "order:3": 0
@@ -6124,6 +6432,12 @@
           "x:3": -24,
           "y:3": 96,
           "id:3": 41
+        },
+        "20:10": {
+          "size:3": 24,
+          "x:3": -24,
+          "y:3": 54,
+          "id:3": 81
         }
       },
       "lineID:3": 1,
@@ -6132,7 +6446,7 @@
           "name:8": "Going Immersive",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "\nThis tab is about Immersive Engineering. You will be able to make basic and advanced machines and also generate power."
+          "desc:8": "\nThis tab is about Immersive Engineering. You will be able to make basic and advanced machines and also generate power.\nAuthored by Gazzaa \u0026 BennyB"
         }
       },
       "order:3": 1
@@ -6284,7 +6598,7 @@
           "name:8": "Thermal Dynamics",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "\nThermal Dynamics is a very useful mod in that it adds machines to smelt, seperate etc. It should be useful to every palyer."
+          "desc:8": "\nThermal Dynamics is a very useful mod in that it adds machines to smelt, seperate etc. It should be useful to every palyer.\nAuthored by Gazzaa \u0026 BennyB"
         }
       },
       "order:3": 2
@@ -6394,7 +6708,7 @@
           "name:8": "Pneumaticraft \u0026 AA",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "This tab is about machinery, pressurization and a bunch more stuff"
+          "desc:8": "\nThis tab is about machinery, pressurization and a bunch more stuff.\nAuthored by Gazzaa \u0026 BennyB"
         }
       },
       "order:3": 3
@@ -6485,20 +6799,39 @@
           "name:8": "Extra Utilities",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Gazzzaa"
+          "desc:8": "Extra Utilities is a extremely powerful mod, it can do nearly everything you can think of.\nAuthored by Gazzaa \u0026 BennyB"
         }
       },
       "order:3": 8
     },
     "11:10": {
-      "quests:9": {},
+      "quests:9": {
+        "0:10": {
+          "size:3": 24,
+          "x:3": -228,
+          "y:3": 48,
+          "id:3": 82
+        },
+        "1:10": {
+          "size:3": 24,
+          "x:3": -186,
+          "y:3": 48,
+          "id:3": 83
+        },
+        "2:10": {
+          "size:3": 24,
+          "x:3": -144,
+          "y:3": 48,
+          "id:3": 84
+        }
+      },
       "lineID:3": 11,
       "properties:10": {
         "betterquesting:10": {
           "name:8": "Extreme Reactors",
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Gazzzaa"
+          "desc:8": "\nExtreme Reactors can produce a huge amount of power if you setup one correctly. There are many examples on the web so i suggest to go an take a look. There may not be that much quests but when you build a good simple reactor you life will be so much better.\nAuthored by Gazzaa \u0026 BennyB"
         }
       },
       "order:3": 9
